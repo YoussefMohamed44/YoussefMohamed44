@@ -130,7 +130,7 @@
 ---
 
 # 🔥 What I'm Working On  
-- Improving my **Codeforces rating**  
+- Improving my **problem solving** skills
 - Building advanced ML systems   
 - Developing **ML-powered features for my graduation project**
 
