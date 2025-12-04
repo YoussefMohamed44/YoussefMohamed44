@@ -19,7 +19,7 @@
 
 ---
 
-# 🧠 Tech Stack (Badges + Text)
+# 🧠 Tech Stack
 
 ### 🔹 **Languages & Core Skills**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -140,7 +140,7 @@ Building the backend logic & authentication for a Spotify-like streaming app.
 
 ---
 
-# 📬 Contact  
+# 📬 Contact
 📧 **Email:** Youssef.Mohamed4994@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/youssef-mohamed-a85889289/  
 
