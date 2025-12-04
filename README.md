@@ -23,13 +23,14 @@
 ### 🔹 **Languages & Core Skills**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599c?logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
-**Python · C++ · C# · Java · Kotlin · JavaScript · SQL**
+**Python · C++ · C · C# · JavaScript · Java · Kotlin · SQL**
 
 ---
 
