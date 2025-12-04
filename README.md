@@ -136,7 +136,7 @@ Building the backend logic & authentication for a Spotify-like streaming app.
 # 🔥 What I'm Working On  
 - Improving my **Codeforces rating**  
 - Building advanced ML systems   
-- Completing a strong **ML-based graduation project**
+- Developing **ML-powered features for my graduation project**
 
 ---
 
