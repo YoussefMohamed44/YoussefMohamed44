@@ -110,13 +110,13 @@
 
 ### 🔹 **Compiler Project (C#)** 
 - A full lexical + syntax analysis pipeline written in C#.  
-- Will include tokens, parsing logic, grammar rules, and AST generation.
+- Will include tokens, parsing logic, grammar rules, and AST generation  
 👉 **Repo:** https://github.com/YoussefMohamed44/Compiler-Project
 
 ---
 
 ### 🔹 **Spotify Clone Backend – FastAPI** *(In Progress)*  
-- Building the backend logic & authentication for a Spotify-like streaming app.  
+- Building the backend logic & authentication for a Spotify-like streaming app  
 👉 **Repo:** https://github.com/Manar2040/Spotify_CLone
 
 ---
