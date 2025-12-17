@@ -115,8 +115,8 @@
 
 ---
 
-### 🔹 **Spotify Clone Backend – FastAPI** *(In Progress)*  
-- Building the backend logic & authentication for a Spotify-like streaming app  
+### 🔹 **Spotify Clone – FastAPI**
+- Built the backend logic & authentication for a Spotify-like streaming app  
 👉 **Repo:** https://github.com/Manar2040/Spotify_CLone
 
 ---
