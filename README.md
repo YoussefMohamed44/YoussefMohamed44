@@ -73,7 +73,7 @@
 - Built a preprocessing + TF-IDF pipeline  
 - Trained logistic regression (70%+ accuracy)  
 - CLI interface for real-time predictions  
-👉 **Repo:** https://github.com/Ramy-22/Customer-Review-Sentiment-Analyzer
+👉 **Repo:** https://github.com/YoussefMohamed44/Customer-Review-Sentiment-Analysis
 
 ---
 
@@ -85,16 +85,8 @@
 
 ---
 
-### 🔹 **OvenFresh – Online Bakery App**
-**Tech:** ASP.NET Core MVC, EF Core, SQL Server  
-- Full-stack bakery ecommerce system  
-- Optimized DB queries & page load performance  
-👉 **Repo:** https://github.com/YoussefMohamed44/OvenFresh-online-bakery
-
----
-
 ### 🔹 **Supermarket Web Application**
-**Tech:** Flask, Python, HTML/CSS, Bootstrap 
+**Tech:** Flask, Python, HTML/CSS, Bootstrap, unittest, pytest, selenium 
 - Backend-focused supermarket system demonstrating routing, templates, and server-side logic  
 - Includes product handling, page rendering, and basic CRUD-like operations  
 👉 **Repo:** https://github.com/YoussefMohamed44/Supermarket
@@ -118,6 +110,14 @@
 ### 🔹 **Spotify Clone – FastAPI**
 - Built the backend logic & authentication for a Spotify-like streaming app  
 👉 **Repo:** https://github.com/Manar2040/Spotify_CLone
+
+---
+
+### 🔹 **OvenFresh – Online Bakery App**
+**Tech:** ASP.NET Core MVC, EF Core, SQL Server  
+- Full-stack bakery ecommerce system  
+- Optimized DB queries & page load performance  
+👉 **Repo:** https://github.com/YoussefMohamed44/OvenFresh-online-bakery
 
 ---
 
